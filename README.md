@@ -2,6 +2,8 @@
 
 A simple script that converts FTDNA's MyOriginsV3 results to a simulated G25 coordinate!
 
+**PYTHON 3 IS REQUIRED!**
+
 ## How do I run it?
 1. Open the _data_ file with your text editor of choice
 2. Replace the 0s with the percentages that FTDNA's MyOriginsV3 gave you
