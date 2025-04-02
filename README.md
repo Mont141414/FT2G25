@@ -1,6 +1,6 @@
 # FT2G25
 
-A simple python script that converts FTDNA's MyOriginsV3 results to a simulated G25 coordinate!
+A simple script that converts FTDNA's MyOriginsV3 results to a simulated G25 coordinate!
 
 ## How do I run it?
 1. Open the _data_ file with your text editor of choice
