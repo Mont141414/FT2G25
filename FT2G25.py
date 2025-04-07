@@ -108,4 +108,4 @@ contributions = [
 final_result = np.sum(contributions, axis=0) if contributions else np.zeros(25)
 
 final_result_str = ",".join(f"{x:.6f}" for x in final_result)
-print(f"Final_result,{final_result_str}")
+print(f"sample_FT2G25_sim,{final_result_str}")
